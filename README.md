@@ -93,7 +93,7 @@ plt.show()
 ## ▶️ How to Run
 
 ```bash
-python performance_graph.py
+Open Visualization.ipynb in Google Colab
 ```
 
 ---
